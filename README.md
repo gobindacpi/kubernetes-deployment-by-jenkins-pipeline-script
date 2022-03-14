@@ -1,0 +1,1 @@
+# kubernetes-deployment-by-jenkins-pipeline-script
