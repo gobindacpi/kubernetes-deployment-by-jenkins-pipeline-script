@@ -1,5 +1,5 @@
 # kubernetes-deployment-by-jenkins-pipeline-script
-First Install "kubernetes continuous Deploy" version 1.0.0 and assign kubernetes kubeconfig credential on jenkins credential file , then run below command on pipeline script.
+First Install "kubernetes continuous Deploy" version 1.0.0 (current version 2.3.1 will may not work) and assign kubernetes kubeconfig credential on jenkins credential file , then run below command on pipeline script.
 
 ~~~
 pipeline {
